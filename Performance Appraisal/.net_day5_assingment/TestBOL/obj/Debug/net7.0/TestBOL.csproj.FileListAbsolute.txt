@@ -1,0 +1,54 @@
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\TestBOL.exe
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\TestBOL.deps.json
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\TestBOL.runtimeconfig.json
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\TestBOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\TestBOL.pdb
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\BOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\bin\Debug\net7.0\BOL.pdb
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CopyComplete
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.pdb
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.pdb
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.exe
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.deps.json
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.runtimeconfig.json
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.pdb
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\BOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\bin\Debug\net7.0\BOL.pdb
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CopyComplete
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.exe
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.deps.json
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.runtimeconfig.json
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\TestBOL.pdb
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\BOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\bin\Debug\net7.0\BOL.pdb
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.AssemblyReference.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfoInputs.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.AssemblyInfo.cs
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CoreCompileInputs.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.csproj.CopyComplete
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\refint\TestBOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.pdb
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\TestBOL.genruntimeconfig.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\TestBOL\obj\Debug\net7.0\ref\TestBOL.dll

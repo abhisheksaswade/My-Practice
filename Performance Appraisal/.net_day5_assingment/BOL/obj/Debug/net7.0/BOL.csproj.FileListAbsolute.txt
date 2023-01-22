@@ -1,0 +1,36 @@
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\bin\Debug\net7.0\BOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\bin\Debug\net7.0\BOL.pdb
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\BOL.pdb
+D:\7. VS DotNet Data\dotnet\LabPractice\Day05\BOL\obj\Debug\net7.0\ref\BOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\refint\BOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.pdb
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.deps.json
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.dll
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.pdb
+G:\IACSD\OTHER\SDM module end\Performance appraisal\gitdata\SDM-Project\.net_day5_assingment\BOL\obj\Debug\net7.0\ref\BOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.deps.json
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\bin\Debug\net7.0\BOL.pdb
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\refint\BOL.dll
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\BOL.pdb
+E:\SDM\AbhishekSaswade\SDM-Project-Performance_Appraisal\.net_day5_assingment\BOL\obj\Debug\net7.0\ref\BOL.dll
